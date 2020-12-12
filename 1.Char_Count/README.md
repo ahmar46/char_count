@@ -1,3 +1,5 @@
-### This is one of my freestyle projects that i made while doing some practice code
+### This is one of my freestyle projects that i made while doing some practice code.
 
-### Technologies Used are:- HTML, CSS, Javascript
+### Technologies Used are:- HTML, CSS, Javascript.
+
+### Find me on Instagram:- @electrifying_codes
