@@ -1,9 +1,10 @@
 body {
-    margin: 0;
-    padding: 0;
+	background-color: black;
+	margin: 0;
+	padding: 0;
 }
 
 .container {
-    margin-top: 80px;
-    margin-left: 400px;
+	margin-top: 80px;
+	margin-left: 400px;
 }
